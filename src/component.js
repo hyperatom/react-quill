@@ -51,9 +51,7 @@ var QuillComponent = React.createClass({
 	dirtyProps: [
 		'id',
 		'className',
-		'modules',
 		'toolbar',
-		'formats',
 		'styles',
 		'theme',
 		'pollInterval'
